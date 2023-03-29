@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/lien-dev/lien-homepage-assets/main/public/news/img/",
+  "news": [
+    {
+      "date": "2023-03-27",
+      "news": "abc",
+      "img": "about-lien.png"
+    },
+    {
+      "date": "2023-03-26",
+      "news": "ㄱㄴㄷ",
+      "img": "history.png"
+    }
+  ]
+}
