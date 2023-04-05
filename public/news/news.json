@@ -2,14 +2,95 @@
   "baseUrl": "https://raw.githubusercontent.com/lien-dev/lien-homepage-assets/main/public/news/img/",
   "news": [
     {
-      "date": "2023-03-27",
-      "news": "abc",
-      "img": "about-lien.png"
+      "content": "string 1",
+      "description": "1 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
     },
     {
-      "date": "2023-03-26",
-      "news": "ㄱㄴㄷ",
-      "img": "history.png"
+      "content": "string 2",
+      "description": "2 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 3",
+      "description": "3 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 4",
+      "description": "4 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 5",
+      "description": "5 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 6",
+      "description": "6 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 7",
+      "description": "7 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 8",
+      "description": "8 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 9",
+      "description": "9 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 10",
+      "description": "10 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 11",
+      "description": "11 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 12",
+      "description": "12 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
+    },
+    {
+      "content": "string 13",
+      "description": "13 string",
+      "image": "about-lien.png",
+      "published_at": "2023-03-27",
+      "title": "string"
     }
   ]
 }
