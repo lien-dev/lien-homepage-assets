@@ -2,7 +2,7 @@
   "baseUrl": "https://raw.githubusercontent.com/lien-dev/lien-homepage-assets/main/public/news/img/",
   "news": [
     {
-      "content": "TTA(한국정보통신기술협회) 정보통신표준화위원회의 표준 문건 「검체정보관리시스템 구축을 위한 보안지침」을 새롭게 제정하였습니다.\n본 표준은 주식회사 리엔의 박준표 대표와 황인정 이사가 공동 제안하였습니다.",
+      "content": "TTA(한국정보통신기술협회) 정보통신표준화위원회의 표준 문건 「검체정보관리시스템 구축을 위한 보안지침」을 새롭게 제정하였습니다.\n본 표준은 주식회사 리엔의 박준표 대표와 황인정 이사가 공동 제안하였습니다.\n\n[자세히 보기]\nhttps://committee.tta.or.kr/summary/standard_view.jsp?order=standard_no&by=asc&std_no=KO&pk_num=TTAK.KO-12.0422&nowSu=3243",
       "description": "TTA 표준 문건 승인 - 검체 정보 관리 시스템을 구축을 위한 보안 지침",
       "image": "202412-tta.jpg",
       "published_at": "2024-12-06",
